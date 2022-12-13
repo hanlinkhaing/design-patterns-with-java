@@ -5,3 +5,4 @@
 2. State pattern
 3. Iterator pattern
 4. Strategy pattern
+5. Command pattern
